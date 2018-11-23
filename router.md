@@ -4,4 +4,4 @@
 #####1、在cmd命令里使用脚手架(vue/cli)创建项目“vue create 项目名”
 #####2、引入element的组件库“vue add element”
 #####3、引入路由的组件“vue add router”
-#####4、项目完成！
+#####4、项目创建完成！等待你编写
